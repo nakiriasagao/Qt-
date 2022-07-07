@@ -1162,6 +1162,13 @@ void theWidget::keyPressEvent(QKeyEvent * event){
                 emit on_btn_page_clicked();
             }else if(ui->stackedWidget->currentIndex() == 1){
                 emit ui->btn_enter->clicked();
+            }else if(ui->stackedWidget->currentIndex() == 3){
+                emit on_btn_nextword_clicked();
+            }
+            break;
+        case Qt::Key_Escape:
+            if(ui->stackedWidget->currentIndex() == 3){
+                emit on_btn_lastword_clicked();
             }
             break;
     }
