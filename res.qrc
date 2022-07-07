@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/nakiri">
+        <file>sou/icon.jpg</file>
+        <file>sou/logo.ico</file>
+        <file>sou/编辑歌单信息.png</file>
+        <file>sou/播放 (1).png</file>
+        <file>sou/播放.png</file>
+        <file>sou/播放列表.png</file>
+        <file>sou/复原.png</file>
+        <file>sou/关闭.png</file>
+        <file>sou/皮肤.png</file>
+        <file>sou/全屏.png</file>
+        <file>sou/确认-1.png</file>
+        <file>sou/确认-2.png</file>
+        <file>sou/声音.png</file>
+        <file>sou/声音_实体.png</file>
+        <file>sou/声音开.png</file>
+        <file>sou/声音-线性.png</file>
+        <file>sou/透明.png</file>
+        <file>sou/文件夹.png</file>
+        <file>sou/英语书.png</file>
+        <file>sou/最大化.png</file>
+        <file>sou/最小化.png</file>
+        <file>sou/添加到文件夹.png</file>
+        <file>sou/单词本.png</file>
+        <file>sou/title.png</file>
+        <file>sou/spring1.png</file>
+    </qresource>
+</RCC>
